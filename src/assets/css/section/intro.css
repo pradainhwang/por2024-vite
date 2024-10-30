@@ -11,7 +11,8 @@
   padding: 16px;
 }
 .intro__title {
-  font-size: 10vw;
+  font-size: 9.5vw;
+  margin: 0 auto;
   text-transform: uppercase;
   line-height: 1;
   font-weight: 800;
@@ -128,7 +129,7 @@
       font-size: 24px;
   }
 }
-@media (max-width: 320px){
+@media (max-width: 400px){
   .intro__title {
       display: none;
   }
